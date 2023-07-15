@@ -1,0 +1,6 @@
+com\example\ms_gestionCondidat\entities\Candidat.class
+com\example\ms_gestionCondidat\controller\CondidatContoller.class
+com\example\ms_gestionCondidat\service\CandidatServiceImpl.class
+com\example\ms_gestionCondidat\service\ICandidatService.class
+com\example\ms_gestionCondidat\repository\CandidatRepsitory.class
+com\example\ms_gestionCondidat\MsGestionCondidatApplication.class
